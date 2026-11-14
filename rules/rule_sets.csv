@@ -1,0 +1,2 @@
+rule_set,version,name,default_warning_tiers_days,notes
+home-care,1,"Home care, v1","90;60;30","Illustrative document lists, not legal requirements. In a real deployment the agency sets them."

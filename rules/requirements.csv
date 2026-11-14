@@ -1,0 +1,12 @@
+rule_set,version,folder_type,document_type
+home-care,1,caregiver,ID
+home-care,1,caregiver,CONTRACT
+home-care,1,caregiver,BGCHECK
+home-care,1,caregiver,QUAL
+home-care,1,caregiver,FIRSTAID
+home-care,1,caregiver,TRAINING
+home-care,1,client,SERVICE
+home-care,1,client,CAREPLAN
+home-care,1,client,RISK
+home-care,1,client,CONSENT
+home-care,1,client,EMERGENCY
