@@ -13,7 +13,7 @@ Osprey was tested on two batches of synthetic folders with problems planted on p
 | Problems found and named correctly | **219 of 220** |
 | Incomplete folders reported as complete | **0** |
 | Second batch, generated after the system was frozen, with document layouts it had never seen | **109 of 110** — the one left over went to a person, not missed |
-| Cost of reading 393 documents | **under $5** |
+| Time to read all 393 documents of a batch | **about 18 minutes** |
 
 Every error the system made was either handed to a person for review or was a false alarm. None was a silent miss.
 
